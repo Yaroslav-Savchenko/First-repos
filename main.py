@@ -1,2 +1,3 @@
-print("Hello motherfucker!")
-print("Hi it works!")
+message = "Hello world!"
+message[0]
+
